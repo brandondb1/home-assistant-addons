@@ -3,7 +3,7 @@
   "version": "0.9",
   "slug": "avahi_reflector_mqtt",
   "description": "avahi-daemon MQTT Service Broadcast",
-  "url": "https://github.com/brandondb1/home-assistant-addons/avahi-reflector"
+  "url": "https://github.com/brandondb1/home-assistant-addons/avahi-reflector",
   "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
   "image": "brandondb/home-assistant-addon-{arch}-avahi-reflector",
   "startup": "application",
