@@ -13,11 +13,6 @@ jobs:
       matrix:
         addon:
           - avahi-reflector
-          - flicd
-          - picamera
-          - pilight
-          - zabbix-agent
-          - zabbix-agent2
         arch:
           - aarch64
           - amd64
