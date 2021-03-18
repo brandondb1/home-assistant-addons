@@ -16,6 +16,7 @@ jobs:
           - amd64
           - armhf
           - i386
+          - armv7
         exclude:
           - addon: picamera
             arch: amd64
